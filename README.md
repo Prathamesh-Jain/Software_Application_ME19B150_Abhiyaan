@@ -34,17 +34,18 @@ Relevant Courses:
 In Institute
 ------------
 Passed
-  MM2090
-  MA2020
-  MA1102
+  - MM2090
+  - MA2020
+  - MA1102
 Doing
-  CH5019
-  MA2040
+  - CH5019
+  - MA2040
+  
 Online
 ------
-Andrew NG Deep Learning Specialization (Deeplearning.ai)
-Machine Learning A to Z (udemy)
-Deep Learning Specialization (University of San Diego)* -ongoing
-AWS Fundamentals Specialization (coursera)
-SQL for Data Science* ongoing
-Python For Everybody Specialization (University of Michigan)
+  - Andrew NG Deep Learning Specialization (Deeplearning.ai)
+  - Machine Learning A to Z (udemy)
+  - Deep Learning Specialization (University of San Diego)* -ongoing
+  - AWS Fundamentals Specialization (coursera)
+  - SQL for Data Science* ongoing
+  - Python For Everybody Specialization (University of Michigan)
