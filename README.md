@@ -29,8 +29,10 @@ Entrepreneurship Cell, IIT Madras.
 Why I want to work in the team:
 ------------------------------
 Because I think the team is the best ;)
+
 Relevant Courses:
 ----------------
+
 In Institute
 ------------
 Passed
