@@ -36,11 +36,15 @@ Relevant Courses:
 
 In Institute
 ------------
+
 Passed
+------------
   - MM2090
   - MA2020
   - MA1102
+
 Doing
+------------
   - CH5019
   - MA2040
   
