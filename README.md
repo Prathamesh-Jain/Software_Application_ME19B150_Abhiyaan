@@ -19,11 +19,6 @@ Participated in Flipkart Grid 2.0 Intelligent Picking Robot Module.
   - Made to the semi-finals (top 40 teams among 1200 teams from tier 1 colleges) of Flipkart Grid 2.0
   - Link to our work: https://drive.google.com/drive/folders/1w-ZGZWnl1EtPYWrZ4wXc_8PEM7Vo2CZu?usp=sharing
 
-Trigger Word Detection
-  - Aimed trigger/wake word detection algorithm like ‘Alexa’ for Amazon Echo, implemented using RNNs.
-  - Used a 4-layer, A Conv 1-D layer, two GRU (Gated Recurrent Unit) & a dense + sigmoid layer.
-  - Achieved an accuracy of 94.6% using Adam Optimizer and binary cross-entropy as the loss function.
-
 Obstacle Detection
   -  Aimed a real-time obstacle avoidance in autonomous driving using the famous ‘YOLO’ model.
   - Used a 19x19 grid with 5 anchor boxes; score-thresholding & non-max suppression for filtering.
